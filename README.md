@@ -4,6 +4,10 @@ This scipts create `docker-proxy` container from image [jwilder/nginx-proxy](htt
 
 ## Usage
 
+
+copy to your user directory
+
+
 ```bash
 $ nginx-proxy-bridge.sh
 ```
